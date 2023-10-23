@@ -411,7 +411,7 @@
                                 fontWeight: "700",
                                 textAlign: "center",
                                 fontFamily: "Secular One",
-                                bgcolor: "#4c4042",
+                                bgcolor: "#2f8615",
                                 mb: 2,
                                 children: i.time_days
                             }), Object(h.jsx)(u.a, {
@@ -442,7 +442,7 @@
                                 fontWeight: "700",
                                 textAlign: "center",
                                 fontFamily: "Secular One",
-                                bgcolor: "#4c4042",
+                                bgcolor: "#2f8615",
                                 mb: 2,
                                 children: i.time_Hours
                             }), Object(h.jsx)(u.a, {
@@ -473,7 +473,7 @@
                                 fontWeight: "700",
                                 fontFamily: "Secular One",
                                 textAlign: "center",
-                                bgcolor: "#4c4042",
+                                bgcolor: "#2f8615",
                                 mb: 2,
                                 children: i.time_Minusts
                             }), Object(h.jsx)(u.a, {
@@ -503,7 +503,7 @@
                                 fontWeight: "700",
                                 textAlign: "center",
                                 fontFamily: "Secular One",
-                                bgcolor: "#4c4042",
+                                bgcolor: "#2f8615",
                                 mb: 2,
                                 children: i.time_seconds
                             }), Object(h.jsx)(u.a, {
@@ -698,7 +698,7 @@
                                             height: "100%",
                                             boxShadow: "#ffffff 0px 0px 10px 1px",
                                             style: {
-                                                background: "#4c4042"
+                                                background: "#2f8615"
                                             },
                                             borderRadius: "0px",
                                             borderTop: "20px solid #f8cb6e",
@@ -886,7 +886,7 @@
                                             height: "100%",
                                             boxShadow: "#ffffff 0px 0px 10px 1px",
                                             style: {
-                                                background: "#4c4042"
+                                                background: "#2f8615"
                                             },
                                             borderRadius: "0px",
                                             display: "flex",
@@ -923,7 +923,7 @@
                                                     fontSize: "16px",
                                                     color: "#ffffff",
                                                     fontFamily: "Chakra Petch",
-                                                    children: "EIYE Coin Token"
+                                                    children: "PepeX"
                                                 })]
                                             }), Object(h.jsxs)(u.a, {
                                                 display: "flex",
@@ -945,7 +945,7 @@
                                                     fontSize: "16px",
                                                     color: "#ffffff",
                                                     fontFamily: "Chakra Petch",
-                                                    children: "EIYC"
+                                                    children: "PPX"
                                                 })]
                                             }), Object(h.jsxs)(u.a, {
                                                 display: "flex",
