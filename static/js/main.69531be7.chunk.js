@@ -720,7 +720,7 @@
                                                 mb: 2,
                                                 style: {
                                                     boxShadow: "#487748 0px 0px 8px 1px",
-                                                    background: "transparent",
+                                                    background: "#adebad",
                                                     paddingLeft: 15,
                                                     borderRadius: "0px"
                                                 },
@@ -797,7 +797,7 @@
                                                 flexDirection: "column",
                                                 style: {
                                                     boxShadow: "#487748 0px 0px 8px 1px",
-                                                    backgroundColor: "transparent",
+                                                    backgroundColor: "#adebad",
                                                     borderRadius: "0px",
                                                     marginTop: 10
                                                 },
