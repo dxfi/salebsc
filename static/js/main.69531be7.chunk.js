@@ -1146,11 +1146,11 @@
                                                         })
                                                     })]
                                                 }), Object(h.jsxs)("li", {
-                                                    children: ["", Object(h.jsx)("", {
+                                                    children: ["See", Object(h.jsx)("on the", {
                                                         href: ""
                                                     }), Object(h.jsx)("em", {
                                                         children: Object(h.jsx)("b", {
-                                                            children: ""
+                                                            children: "Pepex"
                                                         })
                                                     }), ". choose network and click ", Object(h.jsx)("em", {
                                                         children: Object(h.jsx)("b", {
