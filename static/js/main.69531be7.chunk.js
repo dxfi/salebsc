@@ -221,7 +221,7 @@
                                     zIndex: 1,
                                     style: {
                                         cursor: "pointer",
-                                        boxShadow: "#ffffff 0px 0px 8px 1px",
+                                        boxShadow: "#487748 0px 0px 8px 1px",
                                         background: "transparent",
                                         borderBottom: "5px solid #f8cb6e"
                                     },
@@ -623,7 +623,7 @@
                                             e.next = 21;
                                             break
                                         }
-                                        Y.b.error("Error! Maximum amount is 200 BNB"), e.next = 38;
+                                        Y.b.error("Error! Maximum amount is 10 BNB"), e.next = 38;
                                         break;
                                     case 21:
                                         return e.prev = 21, k(!0), console.log(Object($.e)(b.toString()).toString(), "parseUnits(amount.toString())"), e.next = 26, i.buyTokens(n, {
@@ -777,7 +777,7 @@
                                                             fontSize: "16px",
                                                             marginTop: "10px",
                                                             background: "transparent",
-                                                            boxShadow: "#f8ca6ece 0px 0px 8px 1px",
+                                                            boxShadow: "#487748 0px 0px 8px 1px",
                                                             borderBottom: "5px solid #f8cb6e"
                                                         },
                                                         children: [" ", Object(h.jsx)("img", {
