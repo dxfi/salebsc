@@ -1146,13 +1146,13 @@
                                                         })
                                                     })]
                                                 }), Object(h.jsxs)("li", {
-                                                    children: ["At the ", Object(h.jsx)("a", {
+                                                    children: ["", Object(h.jsx)("", {
                                                         href: ""
                                                     }), Object(h.jsx)("em", {
                                                         children: Object(h.jsx)("b", {
-                                                            children: "EIYE Coin Website"
+                                                            children: ""
                                                         })
-                                                    }), ". a prompt shows, choose network and click ", Object(h.jsx)("em", {
+                                                    }), ". choose network and click ", Object(h.jsx)("em", {
                                                         children: Object(h.jsx)("b", {
                                                             children: "Connect"
                                                         })
@@ -1162,7 +1162,7 @@
                                                         children: "confirm."
                                                     })]
                                                 }), Object(h.jsx)("li", {
-                                                    children: "Once connected, enter the amount of EIYE Coin you want to buy with BNB "
+                                                    children: "Once connected, enter the amount of PEPEX Coin you want to buy with BNB "
                                                 })]
                                             })]
                                         })]
