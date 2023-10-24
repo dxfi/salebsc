@@ -854,7 +854,7 @@
                                                             height: "20px",
                                                             src: N,
                                                             alt: ""
-                                                        }), " ", "EYC"]
+                                                        }), " ", "PEPEX"]
                                                     })]
                                                 })]
                                             }), Object(h.jsx)(u.a, {
@@ -867,7 +867,7 @@
                                                     children: Object(h.jsx)(P.a, {
                                                         style: (e = {
                                                             background: "transparent"
-                                                        }, Object(S.a)(e, "background", "transparent"), Object(S.a)(e, "boxShadow", "#ffffff 0px 0px 8px 1px"), Object(S.a)(e, "fontSize", "18px"), Object(S.a)(e, "borderRadius", "0px"), Object(S.a)(e, "width", "176px"), Object(S.a)(e, "height", "45px"), Object(S.a)(e, "color", "#ffffff"), Object(S.a)(e, "textTransform", "capitalize"), Object(S.a)(e, "fontWeight", "500"), Object(S.a)(e, "borderBottom", "5px solid #f8cb6e"), e),
+                                                        }, Object(S.a)(e, "background", "transparent"), Object(S.a)(e, "boxShadow", "#ffffff 0px 0px 8px 1px"), Object(S.a)(e, "fontSize", "18px"), Object(S.a)(e, "borderRadius", "0px"), Object(S.a)(e, "width", "176px"), Object(S.a)(e, "height", "45px"), Object(S.a)(e, "color", "#228B22"), Object(S.a)(e, "textTransform", "capitalize"), Object(S.a)(e, "fontWeight", "500"), Object(S.a)(e, "borderBottom", "5px solid #f8cb6e"), e),
                                                         onClick: function() {
                                                             return V()
                                                         },
