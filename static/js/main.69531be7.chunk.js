@@ -159,7 +159,7 @@
                         children: t
                     })
                 },
-                T = "static/media/logo.png";
+                T = "static/media/logo2.png";
 
             function k() {
                 var e = Object(a.useContext)(w),
