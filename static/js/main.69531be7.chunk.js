@@ -720,7 +720,7 @@
                                                 mb: 2,
                                                 style: {
                                                     boxShadow: "#487748 0px 0px 8px 1px",
-                                                    background: "#e5e1fc",
+                                                    background: "#bfeeb8",
                                                     paddingLeft: 15,
                                                     borderRadius: "0px"
                                                 },
@@ -776,7 +776,7 @@
                                                             fontWeight: "500",
                                                             fontSize: "16px",
                                                             marginTop: "10px",
-                                                            background: "#e5e1fc",
+                                                            background: "#bfeeb8",
                                                             boxShadow: "#487748 0px 0px 8px 1px",
                                                             borderBottom: "5px solid #DEB887"
                                                         },
@@ -797,7 +797,7 @@
                                                 flexDirection: "column",
                                                 style: {
                                                     boxShadow: "#487748 0px 0px 8px 1px",
-                                                    backgroundColor: "#e5e1fc",
+                                                    backgroundColor: "#bfeeb8",
                                                     borderRadius: "0px",
                                                     marginTop: 10
                                                 },
@@ -842,7 +842,7 @@
                                                             fontSize: "16px",
                                                             marginTop: "10px",
                                                             boxShadow: "#487748 0px 0px 8px 1px",
-                                                            background: "#e5e1fc",
+                                                            background: "#bfeeb8",
                                                             borderBottom: "5px solid #DEB887"
                                                         },
                                                         children: [" ", Object(h.jsx)("img", {
