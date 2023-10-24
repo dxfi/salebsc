@@ -672,7 +672,7 @@
                                     mb: 2,
                                     fontWeight: "700",
                                     fontSize: "25px",
-                                    color: "#fffff",
+                                    color: "#3f4c3d",
                                     fontFamily: "Segoe UI Black",
                                     textAlign: "center",
                                     children: [Object(h.jsx)("h3", {
@@ -711,7 +711,7 @@
                                             children: [Object(h.jsx)(u.a, {
                                                 fontWeight: "700",
                                                 fontSize: "25px",
-                                                color: "#ffffff",
+                                                color: "#3f4c3d",
                                                 fontFamily: "Secular One",
                                                 textAlign: "center",
                                                 children: "Buy Pepex Token"
@@ -728,7 +728,7 @@
                                                 pt: 1,
                                                 children: [Object(h.jsxs)(u.a, {
                                                     style: {
-                                                        color: "#ffffff",
+                                                        color: "#3f4c3d",
                                                         fontFamily: "Chakra Petch",
                                                         fontWeight: "500",
                                                         fontSize: "18px",
@@ -744,7 +744,7 @@
                                                     alignItems: "center",
                                                     children: [Object(h.jsx)(F.a, {
                                                         style: {
-                                                            color: "#ffffff",
+                                                            color: "#3f4c3d",
                                                             fontFamily: "Chakra Petch",
                                                             fontWeight: "600",
                                                             fontSize: "18px",
@@ -771,7 +771,7 @@
                                                         py: 1,
                                                         mr: 2,
                                                         style: {
-                                                            color: "#ffffff",
+                                                            color: "#3f4c3d",
                                                             fontFamily: "Chakra Petch",
                                                             fontWeight: "500",
                                                             fontSize: "16px",
@@ -806,7 +806,7 @@
                                                 children: [Object(h.jsxs)(u.a, {
                                                     mb: 1,
                                                     style: {
-                                                        color: "#ffffff",
+                                                        color: "#3f4c3d",
                                                         fontFamily: "Chakra Petch",
                                                         fontWeight: "500",
                                                         fontSize: "18px",
@@ -822,7 +822,7 @@
                                                     children: [Object(h.jsx)("span", {
                                                         style: {
                                                             fontSize: "18px",
-                                                            color: "#ffffff",
+                                                            color: "#3f4c3d",
                                                             fontFamily: "Chakra Petch"
                                                         },
                                                         className: "heading",
@@ -836,7 +836,7 @@
                                                         pr: r ? 2 : 4,
                                                         py: 1,
                                                         style: {
-                                                            color: "#ffffff",
+                                                            color: "#3f4c3d",
                                                             fontFamily: "Chakra Petch",
                                                             fontWeight: "500",
                                                             fontSize: "16px",
@@ -899,7 +899,7 @@
                                             children: [Object(h.jsx)(u.a, {
                                                 fontWeight: "700",
                                                 fontSize: "25px",
-                                                color: "#ffffff",
+                                                color: "#3f4c3d",
                                                 fontFamily: "Secular One",
                                                 textAlign: "center",
                                                 children: "Token Info"
@@ -914,14 +914,14 @@
                                                     fontWeight: "600",
                                                     borderRadius: "8px",
                                                     fontSize: "16px",
-                                                    color: "#ffffff",
+                                                    color: "#3f4c3d",
                                                     fontFamily: "Chakra Petch",
                                                     children: "Token Name"
                                                 }), Object(h.jsx)(u.a, {
                                                     fontWeight: "600",
                                                     borderRadius: "8px",
                                                     fontSize: "16px",
-                                                    color: "#ffffff",
+                                                    color: "#3f4c3d",
                                                     fontFamily: "Chakra Petch",
                                                     children: "PepeX"
                                                 })]
@@ -936,14 +936,14 @@
                                                     fontWeight: "600",
                                                     borderRadius: "8px",
                                                     fontSize: "16px",
-                                                    color: "#ffffff",
+                                                    color: "#3f4c3d",
                                                     fontFamily: "Chakra Petch",
                                                     children: "Token Symbol"
                                                 }), Object(h.jsx)(u.a, {
                                                     fontWeight: "600",
                                                     borderRadius: "8px",
                                                     fontSize: "16px",
-                                                    color: "#ffffff",
+                                                    color: "#3f4c3d",
                                                     fontFamily: "Chakra Petch",
                                                     children: "PPX"
                                                 })]
@@ -958,14 +958,14 @@
                                                     fontWeight: "600",
                                                     borderRadius: "8px",
                                                     fontSize: "16px",
-                                                    color: "#ffffff",
+                                                    color: "#3f4c3d",
                                                     fontFamily: "Chakra Petch",
                                                     children: "Token Decimals"
                                                 }), Object(h.jsx)(u.a, {
                                                     fontWeight: "600",
                                                     borderRadius: "8px",
                                                     fontSize: "16px",
-                                                    color: "#ffffff",
+                                                    color: "#3f4c3d",
                                                     fontFamily: "Chakra Petch",
                                                     children: "18"
                                                 })]
@@ -980,14 +980,14 @@
                                                     fontWeight: "600",
                                                     borderRadius: "8px",
                                                     fontSize: "16px",
-                                                    color: "#ffffff",
+                                                    color: "#3f4c3d",
                                                     fontFamily: "Chakra Petch",
                                                     children: "Tokens Per BNB"
                                                 }), Object(h.jsx)(u.a, {
                                                     fontWeight: "600",
                                                     borderRadius: "8px",
                                                     fontSize: "16px",
-                                                    color: "#ffffff",
+                                                    color: "#3f4c3d",
                                                     fontFamily: "Chakra Petch",
                                                     children: "1000000"
                                                 })]
@@ -1002,14 +1002,14 @@
                                                     fontWeight: "600",
                                                     borderRadius: "8px",
                                                     fontSize: "16px",
-                                                    color: "#ffffff",
+                                                    color: "#3f4c3d",
                                                     fontFamily: "Chakra Petch",
                                                     children: "Min Contribute"
                                                 }), Object(h.jsxs)(u.a, {
                                                     fontWeight: "600",
                                                     borderRadius: "8px",
                                                     fontSize: "16px",
-                                                    color: "#ffffff",
+                                                    color: "#3f4c3d",
                                                     fontFamily: "Chakra Petch",
                                                     children: ["0.01 BNB", " "]
                                                 })]
@@ -1024,14 +1024,14 @@
                                                     fontWeight: "600",
                                                     borderRadius: "8px",
                                                     fontSize: "16px",
-                                                    color: "#ffffff",
+                                                    color: "#3f4c3d",
                                                     fontFamily: "Chakra Petch",
                                                     children: "Max Contribute"
                                                 }), Object(h.jsxs)(u.a, {
                                                     fontWeight: "600",
                                                     borderRadius: "8px",
                                                     fontSize: "16px",
-                                                    color: "#ffffff",
+                                                    color: "#3f4c3d",
                                                     fontFamily: "Chakra Petch",
                                                     children: ["200 BNB", " "]
                                                 })]
