@@ -776,7 +776,7 @@
                                                             fontWeight: "500",
                                                             fontSize: "16px",
                                                             marginTop: "10px",
-                                                            background: "transparent",
+                                                            background: "#90ee90",
                                                             boxShadow: "#487748 0px 0px 8px 1px",
                                                             borderBottom: "5px solid #DEB887"
                                                         },
@@ -842,7 +842,7 @@
                                                             fontSize: "16px",
                                                             marginTop: "10px",
                                                             boxShadow: "#487748 0px 0px 8px 1px",
-                                                            background: "transparent",
+                                                            background: "#90ee90",
                                                             borderBottom: "5px solid #DEB887"
                                                         },
                                                         children: [" ", Object(h.jsx)("img", {
