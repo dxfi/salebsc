@@ -841,7 +841,7 @@
                                                             fontWeight: "500",
                                                             fontSize: "16px",
                                                             marginTop: "10px",
-                                                            boxShadow: "#f8ca6ece 0px 0px 8px 1px",
+                                                            boxShadow: "#487748 0px 0px 8px 1px",
                                                             background: "transparent",
                                                             borderBottom: "5px solid #f8cb6e"
                                                         },
@@ -945,7 +945,7 @@
                                                     fontSize: "16px",
                                                     color: "#3f4c3d",
                                                     fontFamily: "Chakra Petch",
-                                                    children: "PPX"
+                                                    children: "PEPEX"
                                                 })]
                                             }), Object(h.jsxs)(u.a, {
                                                 display: "flex",
@@ -1033,7 +1033,7 @@
                                                     fontSize: "16px",
                                                     color: "#3f4c3d",
                                                     fontFamily: "Chakra Petch",
-                                                    children: ["200 BNB", " "]
+                                                    children: ["10 BNB", " "]
                                                 })]
                                             })]
                                         })
