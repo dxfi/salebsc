@@ -223,7 +223,7 @@
                                         cursor: "pointer",
                                         boxShadow: "#487748 0px 0px 8px 1px",
                                         background: "#32CD32",
-                                        borderBottom: "5px solid #f8cb6e"
+                                        borderBottom: "5px solid #DEB887"
                                     },
                                     width: "130px",
                                     height: "42px",
@@ -701,8 +701,8 @@
                                                 background: "#90ee90"
                                             },
                                             borderRadius: "0px",
-                                            borderTop: "20px solid #f8cb6e",
-                                            borderBottom: "20px solid #f8cb6e",
+                                            borderTop: "20px solid #DEB887",
+                                            borderBottom: "20px solid #DEB887",
                                             borderLeft: "10px solid #f8ca6ece",
                                             borderRight: "10px solid #f8ca6ece",
                                             display: "flex",
@@ -778,7 +778,7 @@
                                                             marginTop: "10px",
                                                             background: "transparent",
                                                             boxShadow: "#487748 0px 0px 8px 1px",
-                                                            borderBottom: "5px solid #f8cb6e"
+                                                            borderBottom: "5px solid #DEB887"
                                                         },
                                                         children: [" ", Object(h.jsx)("img", {
                                                             style: {
@@ -843,7 +843,7 @@
                                                             marginTop: "10px",
                                                             boxShadow: "#487748 0px 0px 8px 1px",
                                                             background: "transparent",
-                                                            borderBottom: "5px solid #f8cb6e"
+                                                            borderBottom: "5px solid #DEB887"
                                                         },
                                                         children: [" ", Object(h.jsx)("img", {
                                                             style: {
@@ -867,7 +867,7 @@
                                                     children: Object(h.jsx)(P.a, {
                                                         style: (e = {
                                                             background: "transparent"
-                                                        }, Object(S.a)(e, "background", "#32CD32"), Object(S.a)(e, "boxShadow", "#487748 0px 0px 8px 1px"), Object(S.a)(e, "fontSize", "18px"), Object(S.a)(e, "borderRadius", "0px"), Object(S.a)(e, "width", "176px"), Object(S.a)(e, "height", "45px"), Object(S.a)(e, "color", "#ffffff"), Object(S.a)(e, "textTransform", "capitalize"), Object(S.a)(e, "fontWeight", "500"), Object(S.a)(e, "borderBottom", "5px solid #f8cb6e"), e),
+                                                        }, Object(S.a)(e, "background", "#32CD32"), Object(S.a)(e, "boxShadow", "#487748 0px 0px 8px 1px"), Object(S.a)(e, "fontSize", "18px"), Object(S.a)(e, "borderRadius", "0px"), Object(S.a)(e, "width", "176px"), Object(S.a)(e, "height", "45px"), Object(S.a)(e, "color", "#ffffff"), Object(S.a)(e, "textTransform", "capitalize"), Object(S.a)(e, "fontWeight", "500"), Object(S.a)(e, "borderBottom", "5px solid #DEB887"), e),
                                                         onClick: function() {
                                                             return V()
                                                         },
@@ -891,8 +891,8 @@
                                             borderRadius: "0px",
                                             display: "flex",
                                             flexDirection: "column",
-                                            borderTop: "20px solid #f8cb6e",
-                                            borderBottom: "20px solid #f8cb6e",
+                                            borderTop: "20px solid #DEB887",
+                                            borderBottom: "20px solid #DEB887",
                                             borderLeft: "10px solid #f8ca6ece",
                                             borderRight: "10px solid #f8ca6ece",
                                             p: 2,
@@ -908,7 +908,7 @@
                                                 display: "flex",
                                                 alignItems: "center",
                                                 justifyContent: "space-between",
-                                                borderBottom: "1px solid #f8cb6e",
+                                                borderBottom: "1px solid #DEB887",
                                                 pb: 2,
                                                 children: [Object(h.jsx)(u.a, {
                                                     fontWeight: "600",
@@ -929,7 +929,7 @@
                                                 display: "flex",
                                                 alignItems: "center",
                                                 justifyContent: "space-between",
-                                                borderBottom: "1px solid #f8cb6e",
+                                                borderBottom: "1px solid #DEB887",
                                                 pb: 2,
                                                 mt: 2,
                                                 children: [Object(h.jsx)(u.a, {
@@ -951,7 +951,7 @@
                                                 display: "flex",
                                                 alignItems: "center",
                                                 justifyContent: "space-between",
-                                                borderBottom: "1px solid #f8cb6e",
+                                                borderBottom: "1px solid #DEB887",
                                                 pb: 2,
                                                 mt: 2,
                                                 children: [Object(h.jsx)(u.a, {
@@ -973,7 +973,7 @@
                                                 display: "flex",
                                                 alignItems: "center",
                                                 justifyContent: "space-between",
-                                                borderBottom: "1px solid #f8cb6e",
+                                                borderBottom: "1px solid #DEB887",
                                                 pb: 2,
                                                 mt: 2,
                                                 children: [Object(h.jsx)(u.a, {
@@ -995,7 +995,7 @@
                                                 display: "flex",
                                                 alignItems: "center",
                                                 justifyContent: "space-between",
-                                                borderBottom: "1px solid #f8cb6e",
+                                                borderBottom: "1px solid #DEB887",
                                                 pb: 2,
                                                 mt: 2,
                                                 children: [Object(h.jsx)(u.a, {
@@ -1017,7 +1017,7 @@
                                                 display: "flex",
                                                 alignItems: "center",
                                                 justifyContent: "space-between",
-                                                borderBottom: "1px solid #f8cb6e",
+                                                borderBottom: "1px solid #DEB887",
                                                 pb: 2,
                                                 mt: 2,
                                                 children: [Object(h.jsx)(u.a, {
