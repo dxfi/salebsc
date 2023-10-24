@@ -1044,7 +1044,8 @@
                             children: [Object(h.jsx)("h2", {
                                 className: "h2_class",
                                 id: "Howto_buy",
-                                children: "HOW TO BUY"
+                                children: "HOW TO BUY", 
+                                color: "black"
                             }), Object(h.jsx)("div", {
                                 className: "How_details",
                                 children: Object(h.jsxs)(B.a, {
@@ -1065,32 +1066,39 @@
                                                 style: {
                                                     textAlign: "left",
                                                     paddingLeft: "40px",
-                                                    fontSize: "20px"
+                                                    fontSize: "20px",
+                                                    color: "#262626"
                                                 },
                                                 children: "Step 1"
                                             }), Object(h.jsxs)("ul", {
                                                 children: [Object(h.jsxs)("li", {
                                                     children: ["Click on ", Object(h.jsx)("em", {
+                                                        color: "#262626"
                                                         children: Object(h.jsx)("quote", {
-                                                            children: "'Connect'"
+                                                            children: "'Connect'", 
+                                                            color: "#262626"
                                                         })
                                                     })]
                                                 }), Object(h.jsxs)("li", {
                                                     children: ["Choose the wallet where you have your BNB funds, ", Object(h.jsx)("em", {
-                                                        children: "Metamask or WalletConnect"
+                                                        children: "Metamask or WalletConnect", 
+                                                        color: "#262626"
                                                     })]
                                                 }), Object(h.jsxs)("li", {
                                                     children: ["When prompted, click on ", Object(h.jsx)("em", {
-                                                        children: "confirm."
+                                                        children: "confirm.", 
+                                                        color: "#262626"
                                                     })]
                                                 }), Object(h.jsx)("li", {
-                                                    children: "Enter the amount of BNB you want to buy "
+                                                    children: "Enter the amount of BNB you want to buy ",
+                                                    color: "#262626"
                                                 })]
                                             })]
                                         }), Object(h.jsx)("img", {
                                             src: E,
                                             width: "600px",
-                                            height: "300px"
+                                            height: "300px",
+                                            color: "#262626"
                                         })]
                                     }), Object(h.jsxs)(B.a, {
                                         item: !0,
@@ -1106,7 +1114,8 @@
                                                 style: {
                                                     textAlign: "left",
                                                     paddingLeft: "40px",
-                                                    fontSize: "20px"
+                                                    fontSize: "20px",
+                                                    color: "#262626"
                                                 },
                                                 children: "Step 1"
                                             }), Object(h.jsx)("p", {
@@ -1130,18 +1139,21 @@
                                                     textAlign: "left",
                                                     paddingLeft: "40px",
                                                     paddingTop: "15px",
-                                                    fontSize: "20px"
+                                                    fontSize: "20px",
+                                                    color: "#262626"
                                                 },
                                                 children: "Step 2"
                                             }), Object(h.jsxs)("ul", {
                                                 children: [Object(h.jsxs)("li", {
                                                     children: ["Go to your ", Object(h.jsx)("em", {
                                                         children: Object(h.jsx)("b", {
-                                                            children: "Trustwallet"
+                                                            children: "Trustwallet",
+                                                            color: "#262626"
                                                         })
                                                     }), "  click on ", Object(h.jsx)("em", {
                                                         children: Object(h.jsx)("b", {
-                                                            children: "Discover"
+                                                            children: "Discover",
+                                                            color: "#262626"
                                                         })
                                                     })]
                                                 }), Object(h.jsxs)("li", {
@@ -1149,19 +1161,23 @@
                                                         href: ""
                                                     }), Object(h.jsx)("em", {
                                                         children: Object(h.jsx)("b", {
-                                                            children: "EIYE Coin Website"
+                                                            children: "EIYE Coin Website",
+                                                            color: "#262626"
                                                         })
                                                     }), ". a prompt shows, choose network and click ", Object(h.jsx)("em", {
                                                         children: Object(h.jsx)("b", {
-                                                            children: "Connect"
+                                                            children: "Connect",
+                                                            color: "#262626"
                                                         })
                                                     })]
                                                 }), Object(h.jsxs)("li", {
                                                     children: ["When prompted, click on ", Object(h.jsx)("em", {
-                                                        children: "confirm."
+                                                        children: "confirm.",
+                                                        color: "#262626"
                                                     })]
                                                 }), Object(h.jsx)("li", {
-                                                    children: "Once connected, enter the amount of EIYE Coin you want to buy with BNB "
+                                                    children: "Once connected, enter the amount of EIYE Coin you want to buy with BNB ",
+                                                    color: "#262626"
                                                 })]
                                             })]
                                         })]
