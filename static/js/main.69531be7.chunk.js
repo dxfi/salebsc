@@ -347,9 +347,9 @@
             function X() {
                 var e = Object(d.a)("(max-width:700px)"),
                     t = (Object(a.useRef)(), Object(a.useState)({
-                        time_days: 0,
-                        time_Hours: 0,
-                        time_Minusts: 0,
+                        time_days: 30,
+                        time_Hours: 12,
+                        time_Minusts: 59,
                         time_seconds: 0
                     })),
                     n = Object(l.a)(t, 2),
@@ -698,7 +698,7 @@
                                             height: "100%",
                                             boxShadow: "#ffffff 0px 0px 10px 1px",
                                             style: {
-                                                background: "#2f8615"
+                                                background: "#F0FFF0"
                                             },
                                             borderRadius: "0px",
                                             borderTop: "20px solid #f8cb6e",
@@ -886,7 +886,7 @@
                                             height: "100%",
                                             boxShadow: "#ffffff 0px 0px 10px 1px",
                                             style: {
-                                                background: "#2f8615"
+                                                background: "#F0FFF0"
                                             },
                                             borderRadius: "0px",
                                             display: "flex",
