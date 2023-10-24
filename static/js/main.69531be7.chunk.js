@@ -264,7 +264,6 @@
             }
             var N = "static/media/logo.png",
                 L = "static/media/logo.png",
-                E = "static/media/",
                 D = "static/media/bnblogo.95c82668.svg",
                 q = n(642),
                 V = n(587),
