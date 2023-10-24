@@ -262,8 +262,8 @@
                     return n ? new R.b(e, t, n) : new R.b(e, t, _)
                 }), [e, t, n])
             }
-            var N = "static/media/logo.png",
-                L = "static/media/edye.png",
+            var N = "static/media/logoI.png",
+                L = "static/media/logo.png",
                 E = "static/media/presale.7df692ae.gif",
                 D = "static/media/bnblogo.95c82668.svg",
                 q = n(642),
@@ -698,7 +698,7 @@
                                             height: "100%",
                                             boxShadow: "#ffffff 0px 0px 10px 1px",
                                             style: {
-                                                background: "#F0FFF0"
+                                                background: "#d6ffd2"
                                             },
                                             borderRadius: "0px",
                                             borderTop: "20px solid #f8cb6e",
@@ -886,7 +886,7 @@
                                             height: "100%",
                                             boxShadow: "#ffffff 0px 0px 10px 1px",
                                             style: {
-                                                background: "#F0FFF0"
+                                                background: "#d6ffd2"
                                             },
                                             borderRadius: "0px",
                                             display: "flex",
