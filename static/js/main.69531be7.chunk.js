@@ -1115,7 +1115,7 @@
                                                     textAlign: "left",
                                                     paddingLeft: "40px",
                                                     fontSize: "20px",
-                                                    color: "white"
+                                                    color: "#262626"
                                                 },
                                                 children: "Follow up with the steps explained in Desktop View. "
                                             }), Object(h.jsx)("p", {
@@ -1123,7 +1123,7 @@
                                                     textAlign: "left",
                                                     paddingLeft: "40px",
                                                     fontSize: "20px",
-                                                    color: "white"
+                                                    color: "#262626"
                                                 },
                                                 children: "If you have any challenge connecting to Trustwallet, follow this step 2."
                                             }), Object(h.jsx)("p", {
